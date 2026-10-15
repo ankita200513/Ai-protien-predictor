@@ -1,0 +1,1 @@
+__pycache__/\n*.py[cod]\n.venv/\nvenv/\n.env\nmodels/*.joblib\nmodels/metrics.json\ndata/*.csv\n.ipynb_checkpoints/\n

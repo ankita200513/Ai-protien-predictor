@@ -1,0 +1,1 @@
+Place a verified `proteins.csv` here. Required columns: `sequence`, `label` (1=membrane, 0=non-membrane). Optional: `pfam_family` for group-aware testing. The original dataset is not included; document the source and verify labels and data-use permissions.
